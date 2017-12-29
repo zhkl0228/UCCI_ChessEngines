@@ -41,7 +41,7 @@
 		  2006-1		第一版发布
 
 ********************************************************************/
-#include ".\value.h"
+#include "value.h"
 #include "util.h"
 
 const int MaterialPiece[32]=

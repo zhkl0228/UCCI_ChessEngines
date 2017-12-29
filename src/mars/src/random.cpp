@@ -1,13 +1,16 @@
-#include ".\random.h"
+#include "random.h"
 
 __forceinline unsigned long long_mul_mod(unsigned long multiplier, unsigned long multiplicand, unsigned long divisor) {
   unsigned long result;
+  __asm__("movq %1,%%rax\n imulq %2\n idivq %3\n":"=d"(result):"m"(multiplier),"m"(multiplicand),"m"(divisor):"%rax");
+  /*
   __asm {
     mov eax, multiplier;
     mul multiplicand;
     div divisor;
     mov result, edx;
   }
+  */
   return result;
 }
 

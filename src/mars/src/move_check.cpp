@@ -41,7 +41,7 @@
 		  2006-1		第一版发布
 
 ********************************************************************/
-#include ".\move_check.h"
+#include "move_check.h"
 #include "move_do.h"
 #include "attack.h"
 #include "move_evasion.h"

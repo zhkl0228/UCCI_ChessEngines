@@ -42,7 +42,7 @@
 
 ********************************************************************/
 #include "move.h"
-#include ".\trans.h"
+#include "trans.h"
 #include "util.h"
 #include "value.h"
 

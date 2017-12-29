@@ -41,7 +41,7 @@
 		  2006-1		第一版发布
 
 ********************************************************************/
-#include ".\fen.h"
+#include "fen.h"
 #include "pregen.h"
 #include "piece.h"
 #include "random.h"

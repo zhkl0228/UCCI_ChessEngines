@@ -9,3 +9,4 @@ extern uint64 g_ZobristLockPlayer;
 extern uint64 g_ZobristLockTable[10][256];
 //extern const uint64 Random64[781];
 extern void zobrist_gen(void);
+#define __forceinline

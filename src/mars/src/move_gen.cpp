@@ -41,7 +41,7 @@
 		  2006-1		第一版发布
 
 ********************************************************************/
-#include ".\move_gen.h"
+#include "move_gen.h"
 
 #include "move.h"
 #include "pregen.h"

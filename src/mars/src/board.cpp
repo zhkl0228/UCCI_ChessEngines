@@ -41,7 +41,7 @@
 		  2006-1		第一版发布
 
 ********************************************************************/
-#include ".\board.h"
+#include "board.h"
 #include "attack.h"
  
 int piece_material[ColourNb]; // Thomas

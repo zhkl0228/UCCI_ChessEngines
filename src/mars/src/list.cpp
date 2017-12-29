@@ -41,7 +41,7 @@
 		  2006-1		第一版发布
 
 ********************************************************************/
-#include ".\list.h"
+#include "list.h"
 #include "move.h"
 
 bool list_is_ok(const list_t * list) {

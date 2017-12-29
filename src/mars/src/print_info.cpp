@@ -42,7 +42,7 @@
 		  2006-1		第一版发布
 
 ********************************************************************/
-#include ".\print_info.h"
+#include "print_info.h"
 #include <cstdarg>
 #include <cstdio>
 #include <cstdlib>

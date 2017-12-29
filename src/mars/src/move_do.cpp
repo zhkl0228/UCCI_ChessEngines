@@ -41,7 +41,7 @@
 		  2006-1		第一版发布
 
 ********************************************************************/
-#include ".\move_do.h"
+#include "move_do.h"
 #include "pregen.h"
 #include "memory.h"
 #include "move.h"

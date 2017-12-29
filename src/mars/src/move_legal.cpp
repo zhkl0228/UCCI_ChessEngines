@@ -41,7 +41,7 @@
 		  2006-1		第一版发布
 
 ********************************************************************/
-#include ".\move_legal.h"
+#include "move_legal.h"
 #include "piece.h"
 #include "attack.h"
 #include "board.h"

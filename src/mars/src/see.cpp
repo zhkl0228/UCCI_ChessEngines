@@ -41,7 +41,7 @@
 		  2006-1		第一版发布
 
 ********************************************************************/
-#include ".\see.h"
+#include "see.h"
 #include "pregen.h"
 #include "attack.h"
 #include "value.h"
